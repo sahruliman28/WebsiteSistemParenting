@@ -2,7 +2,7 @@
 
 Capstone Project: Aplikasi Rekomendasi Produk Anak dan Kategori sesuai dengan Tahap Tumbuh Kembang Anak Usia
 
-Proyek ini disusun oleh:
+Project ini disusun oleh:
 
 1. M200X0395 - Afifudin
 
